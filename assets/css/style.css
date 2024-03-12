@@ -1,0 +1,12 @@
+header{
+    background-image: url(../img/centroMedico.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 480px;
+}
+
+footer{
+    background: #65bafa;
+    color: #ffffff;
+}
